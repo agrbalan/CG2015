@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1432765983 source:c:\users\andre.balan\openglproject\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<iostream>
+
+1426797648 c:\users\andre.balan\openglproject\include\glfw\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES3/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES3/gl2ext.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1422328693 c:\users\andre.balan\openglproject\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1422099950 source:c:\users\andre.balan\openglproject\glew.c
+	<GL/glew.h>
+	<GL/wglew.h>
+	<GL/glxew.h>
+	<stddef.h>
+	<dlfcn.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	<AvailabilityMacros.h>
+	<dlfcn.h>
+	<mach-o/dyld.h>
+
+1422328693 c:\users\andre.balan\openglproject\include\gl\wglew.h
+	<windows.h>
+
+1422328693 c:\users\andre.balan\openglproject\include\gl\glxew.h
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xmd.h>
+	<GL/glew.h>
+
+1432827532 source:c:\dropbox\ufabc\cursos\2015\q2\computacao grafica\openglproject2\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<iostream>
+
+1422332293 c:\dropbox\ufabc\cursos\2015\q2\computacao grafica\openglproject2\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1426797648 c:\dropbox\ufabc\cursos\2015\q2\computacao grafica\openglproject2\include\glfw\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES3/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES3/gl2ext.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1432844009 source:c:\users\andre.balan\desktop\openglproject\main.cpp
+	<GLFW/glfw3.h>
+	<iostream>
+
+1426797648 c:\users\andre.balan\desktop\openglproject\include\glfw\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES3/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES3/gl2ext.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
